@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int rotar(int valor){
 		int i, numero[5],rder;
 	for(i=0;i<numero[5];i++){
